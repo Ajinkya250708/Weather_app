@@ -33,13 +33,11 @@ The application uses the **Open-Meteo API** to fetch weather and location data.
 
 ## 📸 Screenshots
 
-### 🖥️ Interface
+### Interface
+<img src="screenshots/interface.png" width="500">
 
-![Weather App Interface](screenshots/interface.png)
-
-### 🌤️ Weather Output
-
-![Weather App Output](screenshots/output.png)
+### Output
+<img src="screenshots/output.png" width="500">
 
 ---
 
